@@ -15,10 +15,12 @@ yarn global add @vue/cli
 
 # Como rodar o projeto:
 
+### Primeiro, dê o comando:
 ```
 npm install
 ```
 
+### Segundo, dê o comando:
 ```
 npm run serve
 ```
@@ -48,7 +50,6 @@ npm run serve
 
 ## Tela da aplicação 
 
-![image](https://user-images.githubusercontent.com/54418295/158887889-d2834c0c-a24a-43ac-864c-4d7ef7341ec1.png)
-![image](https://user-images.githubusercontent.com/54418295/158887978-dab99704-2cee-46eb-b963-597cdd5d2011.png)
+
 
 
