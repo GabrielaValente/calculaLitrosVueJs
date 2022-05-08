@@ -1,5 +1,19 @@
 # garrafa
 
+## Requerimento necessário para rodar o projeto:
+
+## Install:
+
+npm - https://www.npmjs.com/package/download
+
+Após instalar o npm: 
+
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+
+# Como rodar o projeto:
+
 ## Project setup
 ```
 npm install
@@ -10,15 +24,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
