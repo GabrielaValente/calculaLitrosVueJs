@@ -1,7 +1,7 @@
 
 <h1> Programa para distribuir litros no galão :) <h1>
 
-## Requerimento necessário para rodar o projeto:
+## 📌 Requerimento necessário para rodar o projeto:
 
 ## Install:
 
@@ -20,7 +20,7 @@ yarn global add @vue/cli
 npm install
 ```
 
-### Segundo, dê o comando:
+### Depois, dê o comando:
 ```
 npm run serve
 ```
